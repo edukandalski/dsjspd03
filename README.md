@@ -1,7 +1,7 @@
 # DevSuperior - Java Spring Professional
 
 ## Desafio 03 - API Rest, camadas, CRUD, exceções, validações
-Neste desafio trabalhamos conceitos de implementar uma API REST com todas as açoes de CRUD.
+Neste desafio trabalhamos conceitos de implementar uma API REST com todas as ações de CRUD.
 
 O que utilizamos no backend:
 - Java
